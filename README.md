@@ -1,5 +1,5 @@
 # TestX
-Test an grails problem
+Test a grails problem
 
 This project contains a page (product) that maintain a couple of lists, one for products and one for offers.
 Each product line also contain a supplier for this product. Using a select you can filter out products from a specific supplier.
